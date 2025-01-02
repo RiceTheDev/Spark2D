@@ -1,3 +1,4 @@
+# --------- C++ -----------
 # Prerequisites
 *.d
 
@@ -30,9 +31,11 @@
 *.exe
 *.out
 *.app
+# -------------------------
 
 
-#CMAKE
+
+# --------- CMAKE ---------
 CMakeLists.txt.user
 CMakeCache.txt
 CMakeFiles
@@ -45,3 +48,4 @@ compile_commands.json
 CTestTestfile.cmake
 _deps
 CMakeUserPresets.json
+# -------------------------
